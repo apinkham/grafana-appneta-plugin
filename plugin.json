@@ -1,0 +1,21 @@
+{
+  "type": "panel",
+  "name": "AppNeta",
+  "id": "appneta-path-panel",
+
+  "info": {
+    "description": "AppNeta panel for grafana",
+    "author": {
+      "name": "Alec Pinkham",
+      "url": "http://appneta.com"
+    },
+    "keywords": ["appneta", "pathview", "path", "network", "capacity"],
+    "version": "1.0.0",
+    "updated": "2016-09-01"
+  },
+
+  "dependencies": {
+    "grafanaVersion": "3.x.x",
+    "plugins": [ ]
+  }
+}
